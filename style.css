@@ -35,7 +35,7 @@ body{
     max-width: 50%;
 }
 
-.col-15{
+.col-12{
    flex: 0 0 100%;
    max-width: 100%;
 }
